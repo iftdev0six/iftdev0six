@@ -32,18 +32,4 @@
 
 > “My code works… I have no idea why 🤷‍♂️”
 
----
 
-## 📈 
-
-![Iftekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftekhar0six&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekhar0six&layout=compact&theme=radical)
-
----
-
-## 🚀 
-
-Sometimes I open my code just to remember the trauma.
-
----
