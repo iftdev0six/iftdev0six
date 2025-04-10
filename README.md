@@ -1,65 +1,38 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FF720&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Booting+IftekharOS...;Tux+is+dancing+🐧;Initiating+chaos+loop...;Fixing+bugs+created+by+self" />
-</p>
+# 👨‍💻 Iftekhar Ansari | Code. Coffee. Conquer. 🚀
 
----
+> _"I write code that compiles on the first try... then immediately regret pushing it."_ 😅
 
-### 🎞️ 2. **Terminal GIF with ASCII Art (Tux Dance)**
+Welcome to my little corner of GitHub — where bugs fear me (eventually), commits are meaningful (sometimes), and features go from TODO to DONE (miraculously).
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kbRb9L2p0rJHq/giphy.gif" width="400"/>
-</p>
+## 🧠 About Me
 
----
-
-### ✈️ 3. **"Airplane Crash" Meme-Style Console Animation**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif" width="350"/>
-</p>
-
----
-
-### 🐛 4. **Looping Bug/Bugfix Simulation**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="400"/>
-</p>
-
----
-
-### 💥 5. **Fake Hacking Terminal (Glitch/Matrix)**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="400"/>
-</p>
-
----
-
-## 🧾 Sample `README.md` Template (Animated Terminal Style)
-
-<!-- Terminal Boot Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFF00&center=true&vCenter=true&width=600&lines=Booting+IftekharOS...;Tux+is+dancing+🐧;Airplane+Approaching...;Bugs+Detected+%F0%9F%90%9B;Initiating+Infinite+Loop...;Console+Meme+Mode+ON" />
-</p>
-
-<!-- Animated Terminal GIFs -->
-<p align="center">
-  <img src="https://media.giphy.com/media/kbRb9L2p0rJHq/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="300"/>
-</p>
-
-<!-- Matrix Rain -->
-<p align="center">
-  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="400"/>
-</p>
-
-<!-- Console Footer -->
-```txt
-[BOOT SUCCESS] :: IftekharOS running at 99.99% instability
-⚠️ WARNING: Dev has entered the "I can fix it in prod" phase
-💾 SYSTEM SAVED — to floppy disk.
+```javascript
+const iftekhar = {
+  title: "Software Engineer",
+  speciality: ["Backend", "System Design", "API Crafting", "Bug Whispering"],
+  techStack: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma", "JavaScript", "React"],
+  currentFocus: "Building scalable backend systems, leveling up frontend kung fu",
+  funFact: "I speak fluent sarcasm and occasional binary 🧾",
+}
 ```
 
+## 🏗️ Projects That Make Me Look Cool
+
+- 🧾 **BackendBoard** – A forum like Reddit/Quora with categories, user management, and JWT auth
+- 💸 **Expense Tracker** – Because my expenses are scarier than my code
+- ⚙️ **Multiservices Backend** – Complex systems made simple (kinda like IKEA furniture… with a manual)
+
+## 🤝 Let’s Connect
+
+- 📧 Mail me: [iftekhar0six@gmail.com](mailto:iftekhar0six@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/iftekhar06](https://linkedin.com/in/iftekhar06)
+- 📌 Currently @ Hyderabad | Open to new challenges, coffee, and memes
+
+---
+
+> ⚠️ Warning: Frequent exposure to my code may cause sudden bursts of laughter, confusion, or both.
+
+🧠 Keep learning.  
+🔥 Keep building.  
+😎 And push like nobody’s watching.
