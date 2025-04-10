@@ -1,38 +1,40 @@
 
-# 👨‍💻 Iftekhar Ansari | Code. Coffee. Conquer. 🚀
-
-> _"I write code that compiles on the first try... then immediately regret pushing it."_ 😅
-
-Welcome to my little corner of GitHub — where bugs fear me (eventually), commits are meaningful (sometimes), and features go from TODO to DONE (miraculously).
-
-## 🧠 About Me
-
-```javascript
-const iftekhar = {
-  title: "Software Engineer",
-  speciality: ["Backend", "System Design", "API Crafting", "Bug Whispering"],
-  techStack: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma", "JavaScript", "React"],
-  currentFocus: "Building scalable backend systems, leveling up frontend kung fu",
-  funFact: "I speak fluent sarcasm and occasional binary 🧾",
-}
 ```
+┌────────────────────────────┐
+│   Initializing Terminal... │
+└────────────────────────────┘
 
-## 🏗️ Projects That Make Me Look Cool
+[░░░░░░░░░░░░░░░░░░░░░] 0% - Booting up
+[▓░░░░░░░░░░░░░░░░░░░] 10% - Warming up sarcasm engine
+[▓▓░░░░░░░░░░░░░░░░░░] 25% - Injecting caffeine molecule
+[▓▓▓▓░░░░░░░░░░░░░░░░] 42% - Overclocking anxiety
+[▓▓▓▓▓▓░░░░░░░░░░░░░░] 55% - Bypassing motivation firewall
+[▓▓▓▓▓▓▓▓░░░░░░░░░░░░] 66% - Deploying rubber duck debugger
+[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 78% - Extracting fake confidence
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 89% - Parsing "hello_world_final_final.js"
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 95% - Loading memes
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% - Terminal Ready
 
-- 🧾 **BackendBoard** – A forum like Reddit/Quora with categories, user management, and JWT auth
-- 💸 **Expense Tracker** – Because my expenses are scarier than my code
-- ⚙️ **Multiservices Backend** – Complex systems made simple (kinda like IKEA furniture… with a manual)
+┌────────────────────────────┐
+│       ACCESS GRANTED       │
+└────────────────────────────┘
 
-## 🤝 Let’s Connect
+> sudo launch --project
+> Compiling "the_thing_that_might_work"
+> Status: it ran. Somehow.
 
-- 📧 Mail me: [iftekhar0six@gmail.com](mailto:iftekhar0six@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/iftekhar06](https://linkedin.com/in/iftekhar06)
-- 📌 Currently @ Hyderabad | Open to new challenges, coffee, and memes
+> Running diagnostics...
+   ∟ Sanity Check: ✘
+   ∟ Logic Validation: ✘
+   ∟ Humor Module: ✔
 
----
+> Execute: ./hack_the_mainframe.sh
 
-> ⚠️ Warning: Frequent exposure to my code may cause sudden bursts of laughter, confusion, or both.
+[!] Unauthorized success detected
+[!] Error 418: I'm a teapot
 
-🧠 Keep learning.  
-🔥 Keep building.  
-😎 And push like nobody’s watching.
+_Console will self-destruct in 3..._
+2...
+1...
+...just kidding.
+```
