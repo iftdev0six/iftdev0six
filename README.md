@@ -1,4 +1,3 @@
-```markdown
 <!-- 🤯 GIF-style Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Iftekhar+%F0%9F%91%8B;I+break+code+for+fun+%F0%9F%98%81;Still+debugging+since+2019+%F0%9F%A4%94;Send+help+and+chai+%E2%98%95" alt="Typing SVG" />
@@ -114,8 +113,5 @@ git blame your problems on someone else.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
-```
-
----
 
 This is the ultimate dev chaos vibe 🧠💀🔥
