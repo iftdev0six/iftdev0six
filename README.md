@@ -1,88 +1,121 @@
 ```markdown
-# 🙃 Iftekhar is currently...
+<!-- 🤯 GIF-style Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Iftekhar+%F0%9F%91%8B;I+break+code+for+fun+%F0%9F%98%81;Still+debugging+since+2019+%F0%9F%A4%94;Send+help+and+chai+%E2%98%95" alt="Typing SVG" />
+</p>
 
-```bash
-> Trying to fix a bug I created 3 weeks ago 🐛
-> Still blaming the intern (even though I'm the intern) 😅
-> Lost in code… send chai ☕ and paratha 🫓
+---
+
+## 🙃 Welcome to My GitHub Jungle
+
+```
+✨ Magic spell to fix bugs:
+> git commit -am "fixed something, idk"
+> git push --force
+> pray 🌚
 ```
 
 ---
 
-## 🪄 The Developer Life
+## 🌀 Life of a Dev in Animation (fake but feels real)
 
 ```
-Me: I’ll fix just one small bug...
-Also Me: Rewrites the whole project at 3AM 😵‍💫
-```
-
-```
-if (sad === true) {
-    sad = false;
-    console.log("Coding started. Sadness gone.");
-}
+Booting brain... ▓░░░░░░░░░░░░░░ 10%
+Fixing typo... ▓▓▓░░░░░░░░░░░ 35%
+Stack Overflowing... ▓▓▓▓▓▓▓░░░░░ 60%
+Blaming others... ▓▓▓▓▓▓▓▓▓░░░ 85%
+Done nothing... ▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 ```
 
 ---
 
-## 🎬 My Life in Frames
+### 📸 GIFs of My Brain:
 
-🎯 `git init`  
-⏳ 10 mins later: `git commit -m "final FINAL fix"`  
-🔥 1 hour later: `git reset --hard HEAD~1`  
-🤯 Next day: `why is it not workingggg`
-
----
-
-## ⌛ Daily Routine
-
-🛌 Wake up  
-🥱 Think about gym  
-🧑‍💻 Open VS Code  
-😵‍💫 Forget why I opened VS Code  
-🔍 Spend 3 hours debugging  
-💡 Realize it was a typo  
-🧘 Accept my fate  
-🍽 Eat. Pray. Code. Repeat.
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/3o6ZsYm5YuC4zJxWf6/giphy.gif" width="280" />
+</p>
 
 ---
 
-## 📟 Local Tech Support Hotline
+### 📟 Tech Support Moments
 
-👵 Mom: "Internet not working"  
-🧑 Me: "Did you restart the router?"  
-👵 Mom: *Unplugs fridge*  
-💀 Me: "Close enough."
+👩‍👦 Mom: "It’s not working!"  
+👨‍💻 Me: "Did you unplug the microwave again?"  
+👵 Mom: "Yes. The lights blinked. That means it’s fixed."  
+🧠 Me: `null`
 
 ---
 
-## 🌀 Dev Animation (kinda)
+## ⚙️ Daily Ritual
 
 ```
-Loading Iftekhar's Brain...
-[░░░░░░░░░░░░░░░░░░░] 0%
-
-Fixing a Bug...
-[▓▓▓░░░░░░░░░░░░░░░] 20%
-[▓▓▓▓▓▓▓░░░░░░░░░░░] 50%
-[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░] 80%
-💥 Segmentation Fault
-[💀💀💀💀💀💀💀💀💀💀💀] 100%
+🌞 Wake up
+💻 Open VS Code
+☕ Sip chai
+🐛 Discover bug
+🪦 Lose hope
+🌚 Sleep with regrets
 ```
 
 ---
 
-## 🤝 Let's be friends (or bugs)
+## 🔁 Realistic Dev Animation (looped forever)
 
-🐦: [@iftekhar0six](https://twitter.com/iftekhar0six)  
-📍: Somewhere between a bug and a feature
-
----
-
-> “Coding is 10% writing and 90% Googling error messages.”  
-> — Ancient Developer Proverb
-
----
-
-🧠 *Memory full... Rebooting...*
+```txt
+> Writing Code... █▒▒▒▒▒▒▒▒▒
+> Testing... █████▒▒▒▒▒
+> Cursing... ██████████
+> Googling Errors... ███████████████
+> Rewriting Everything... 💀
 ```
+
+---
+
+## 📊 Visitor Counter (because validation matters)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftekhar0six&label=~%20visitors%20~&color=FF69B4&style=plastic" alt="visitor counter"/>
+</p>
+
+---
+
+### 👀 True Facts
+
+- I once fixed a bug by deleting the file. It never came back.
+- I review my own code like it was written by a total stranger.
+- I don’t need therapy. I just need `git revert`.
+
+---
+
+### 📬 Hire Me or Roast Me
+
+🐦 **Twitter:** [@iftekhar0six](https://twitter.com/iftekhar0six)  
+📦 **Status:** Debugging life, line by line...
+
+---
+
+> 🧙 “Legend says he's still debugging that same bug he found in the forest.”  
+> — Code Chronicles, Vol. 404
+
+---
+
+### 👋 Now go check my repos... or don't. I won’t cry. 😭
+
+```
+✨ Pro Tip:
+git blame your problems on someone else.
+```
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+```
+
+---
+
+This is the ultimate dev chaos vibe 🧠💀🔥
